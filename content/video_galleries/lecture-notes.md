@@ -15,36 +15,449 @@ videos:
 
 This page presents outlines for each lecture, and selected handouts. It also presents a full-length [video of Lecture 16](#Lecture_16), as an illustration of the instructional methods used in class.
 
-| LEC # | TOPICS | LECTURE OUTLINES | HANDOUTS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**In Focus 1: Chant: Structure, Performance, and Development**{{< /td-colspan >}} ||||
-| 1 | Introduction to Early Music and to Chant | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec01)) | &nbsp; |
-| 2 | Antiquity to Chant | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec02)) | &nbsp; |
-| 3 | The Purpose and Types of Chant | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec03)) | Lecture slides ([PDF - 1.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec03_slides))  {{< br >}} |
-| 4 | Diversity and Development in Chant | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec04)) | Byzantine ecphonetic notation. Greece, ca. 1100. Schøyen Collection MS 2033. ([JPG](http://www.schoyencollection.com/music-notation/7-4-byzatine-notation/ecophonetic-bible-ms-2033)) {{< br >}}{{< br >}} Vedic numeric hand gesture music notation. India, 1583. Schøyen Collection 5292 ([JPG](http://www.schoyencollection.com/music_files/ms5292.jpg)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 4 >}}**Other Topics 1: From Chant to the Fourteenth-Century**{{< /td-colspan >}} ||||
-| 5 | Secular Monophony in the Middle Ages | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec05)) | &nbsp; |
-| 6 | The Birth of Polyphony | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06)) | Lecture slides ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06_slides)) |
-| 7 | Polyphony (and some monophony) in the 13th and early 14th century | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec07)) | &nbsp; |
-| 8 | _Fauvel_, Vitry, Machaut and Music in France before 1370 | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec08)) | _La quarte estampie real_ ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lst_estmpie)) |
-| {{< td-colspan 4 >}}**In Focus 2: Music in the Trecento (Italy 1340–1420)**{{< /td-colspan >}} ||||
-| 9 | Introduction to Trecento Music | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec09)) | &nbsp; |
-| 10 | Trecento Music and Musicology: Introduction to Research; Sacred Music | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec10)) | &nbsp; |
-| 11 | Simplicity and Complexity | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec11)) | Lecture slides ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21m_220f10_lec11_slides)) {{< br >}}{{< br >}} Paintings by Andrea da Firenze, Giotto di Bondone, and Jacopo del Casentino ([ZIP - 1.4MB]({{< baseurl >}}/resources/lec11_images)) (This zip file contains 11 jpg images.) {{< br >}}{{< br >}}  |
-| 12 | The End of the Trecento and The Rise of European Music | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec12)) | &nbsp; |
-| &nbsp; | First Exam | &nbsp; |
-| {{< td-colspan 4 >}}**Other Topics 2: The "Renaissance" (1420–1600)**{{< /td-colspan >}} ||||
-| 13 | Music in the Mid-Fifteenth Century 1440–1480 | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec13)) | Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec13_slides)) {{< br >}}{{< br >}} [Notes on _In Hydraulis_](http://www.allmusic.com/composition/in-hydraulis-motet-for-4-voices-mc0002386356) by Timothy Dickey {{< br >}}{{< br >}}  |
-| 14 | Vocal Music: Josquin, his Contemporaries, and his Followers | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec14)) | &nbsp; |
-| 15 | Discussion: How to revise a research paper | &nbsp; |
-| {{< anchor "Lecture_16" >}}{{< /anchor >}}16 | Lecture video: [16th century vocal and instrumental music]({{< baseurl >}}/resources/lecture-16-16th-c) | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec16)) | Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec16_slides)) |
-| &nbsp; | Special Event: Jane Alden, "Why Facsimiles?" | &nbsp; |
-| {{< td-colspan 4 >}}**In Focus 3: Elizabethan London  {{< br >}}**{{< /td-colspan >}} ||||
-| 17 | Tutor England / The Elizabethan Madrigal | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec17)) | &nbsp; |
-| 18 | English Music in Church and School | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec18)) | Evensong (Adapted): The Book of Common Prayer Noted ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec18evnsong)) |
-| 19 | Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer) | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec19)) | &nbsp; |
-| 20 | Music in London Society | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec20)) | Songs of Thomas Ravenscroft ([PDF]({{< baseurl >}}/resources/mit21m_220f10_list_ravens)) |
-| &nbsp; | Second Hour Exam | &nbsp; |
-| {{< td-colspan 4 >}}**Other Topics 3: New Developments on the Continent, 1570–1620**{{< /td-colspan >}} ||||
-| 21 | Madrigal and Drama in Late Sixteenth-Century Italy; Music in Venice | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec21)) | &nbsp; |
-| 22 | The Rise of Opera and a New Style | ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec22)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE OUTLINES
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**In Focus 1: Chant: Structure, Performance, and Development**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Early Music and to Chant
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec01))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Antiquity to Chant
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec02))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Purpose and Types of Chant
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec03))
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture slides ([PDF - 1.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec03_slides))  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Diversity and Development in Chant
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec04))
+{{< tdclose >}}
+{{< tdopen >}}
+Byzantine ecphonetic notation. Greece, ca. 1100. Schøyen Collection MS 2033. ([JPG](http://www.schoyencollection.com/music-notation/7-4-byzatine-notation/ecophonetic-bible-ms-2033))
+
+Vedic numeric hand gesture music notation. India, 1583. Schøyen Collection 5292 ([JPG](http://www.schoyencollection.com/music_files/ms5292.jpg))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Other Topics 1: From Chant to the Fourteenth-Century**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Secular Monophony in the Middle Ages
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec05))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Birth of Polyphony
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06))
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture slides ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec06_slides))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Polyphony (and some monophony) in the 13th and early 14th century
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec07))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Fauvel_, Vitry, Machaut and Music in France before 1370
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec08))
+{{< tdclose >}}
+{{< tdopen >}}
+_La quarte estampie real_ ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lst_estmpie))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**In Focus 2: Music in the Trecento (Italy 1340–1420)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Trecento Music
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec09))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Trecento Music and Musicology: Introduction to Research; Sacred Music
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec10))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Simplicity and Complexity
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec11))
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture slides ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21m_220f10_lec11_slides))
+
+Paintings by Andrea da Firenze, Giotto di Bondone, and Jacopo del Casentino ([ZIP - 1.4MB]({{< baseurl >}}/resources/lec11_images)) (This zip file contains 11 jpg images.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The End of the Trecento and The Rise of European Music
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec12))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+First Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Other Topics 2: The "Renaissance" (1420–1600)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music in the Mid-Fifteenth Century 1440–1480
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec13))
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec13_slides))
+
+[Notes on _In Hydraulis_](http://www.allmusic.com/composition/in-hydraulis-motet-for-4-voices-mc0002386356) by Timothy Dickey
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Vocal Music: Josquin, his Contemporaries, and his Followers
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec14))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: How to revise a research paper
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< anchor "Lecture_16" >}}{{< /anchor >}}16
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture video: [16th century vocal and instrumental music]({{< baseurl >}}/resources/lecture-16-16th-c)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec16))
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture slides ([PDF - 1.5 MB]({{< baseurl >}}/resources/mit21m_220f10_lec16_slides))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Special Event: Jane Alden, "Why Facsimiles?"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**In Focus 3: Elizabethan London  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Tutor England / The Elizabethan Madrigal
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec17))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+English Music in Church and School
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec18))
+{{< tdclose >}}
+{{< tdopen >}}
+Evensong (Adapted): The Book of Common Prayer Noted ([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec18evnsong))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec19))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Music in London Society
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec20))
+{{< tdclose >}}
+{{< tdopen >}}
+Songs of Thomas Ravenscroft ([PDF]({{< baseurl >}}/resources/mit21m_220f10_list_ravens))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Second Hour Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Other Topics 3: New Developments on the Continent, 1570–1620**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Madrigal and Drama in Late Sixteenth-Century Italy; Music in Venice
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec21))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Rise of Opera and a New Style
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_220f10_lec22))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

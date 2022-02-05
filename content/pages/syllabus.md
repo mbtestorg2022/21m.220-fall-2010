@@ -69,12 +69,57 @@ It's great music, so let's enjoy it. Please let me know if you ever have concern
 Grading
 -------
 
-| COURSEWORK | APPROXIMATE WEIGHTS |
-| --- | --- |
-| Three papers | 13.3% each = 40% |
-| Two exams | 15% each = 30% |
-| Participation | 20% |
-| Assignments | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+APPROXIMATE WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three papers
+{{< tdclose >}}
+{{< tdopen >}}
+13.3% each = 40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two exams
+{{< tdclose >}}
+{{< tdopen >}}
+15% each = 30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Other smaller assignments/quizzes will be figured into either the paper grade or the exam grade. Presentations, concert report, and attendance will come from the participation grade. A failing grade may be assigned for failure of any of the components of the class.
 
@@ -97,36 +142,370 @@ Other selections are from various sources, including individual CDs and the reco
 Schedule
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**In Focus 1: Chant: Structure, Performance, and Development**{{< /td-colspan >}} |||
-| 1 | Introduction to Early Music and to Chant | &nbsp; |
-| 2 | Antiquity to Chant | Assignment 1 out: chant notation |
-| 3 | The Purpose and Types of Chant | &nbsp; |
-| 4 | Diversity and Development in Chant | Assignment 1 due |
-| {{< td-colspan 3 >}}**Other Topics 1: From Chant to the Fourteenth-Century**{{< /td-colspan >}} |||
-| 5 | Secular Monophony in the Middle Ages | Listening quiz in class: 10 minutes |
-| 6 | The Birth of Polyphony | &nbsp; |
-| 7 | Polyphony (and some monophony) in the 13th and early 14th century |  {{< br >}}{{< br >}} First paper due {{< br >}}{{< br >}} Assignment 2 out: Analysis of Perotin style organum {{< br >}}{{< br >}}  |
-| 8 | _Fauvel_, Vitry, Machaut and Music in France before 1370 | &nbsp; |
-| {{< td-colspan 3 >}}**In Focus 2: Music in the Trecento (Italy 1340–1420)**{{< /td-colspan >}} |||
-| 9 | Introduction to Trecento Music |  {{< br >}}{{< br >}} Assignment 2 due {{< br >}}{{< br >}} Assignment 3 out: Learning medieval notation from medieval manuscripts {{< br >}}{{< br >}}  |
-| 10 | Trecento Music and Musicology: Introduction to Research; Sacred Music | Assignment 3 due |
-| 11 | Simplicity and Complexity | &nbsp; |
-| 12 | The End of the Trecento and The Rise of European Music | &nbsp; |
-| &nbsp; | First Exam | &nbsp; |
-| {{< td-colspan 3 >}}**Other Topics 2: The "Renaissance" (1420–1600)**{{< /td-colspan >}} |||
-| 13 | Music in the Mid-Fifteenth Century 1440–1480 | &nbsp; |
-| 14 | Vocal Music: Josquin, his Contemporaries, and his Followers | &nbsp; |
-| 15 | Discussion: How to revise a research paper | Student presentations |
-| 16 | 16th century vocal and instrumental music | Second paper due |
-| &nbsp; | Special Event: Jane Alden, "Why Facsimiles?" | &nbsp; |
-| {{< td-colspan 3 >}}**In Focus 3: Elizabethan London  {{< br >}}**{{< /td-colspan >}} |||
-| 17 | Tutor England / The Elizabethan Madrigal | &nbsp; |
-| 18 | English Music in Church and School | Assignment 4 due: a few questions about Morley's _Plaine and Easie Introduction_. |
-| 19 | Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer) | Revised second paper due |
-| 20 | Music in London Society | Assignment 5 due: One-page madrigal review |
-| &nbsp; | Second Hour Exam | &nbsp; |
-| {{< td-colspan 3 >}}**Other Topics 3: New Developments on the Continent, 1570–1620**{{< /td-colspan >}} |||
-| 21 | Madrigal and Drama in Late Sixteenth-Century Italy; Music in Venice | &nbsp; |
-| 22 | The Rise of Opera and a New Style | Third paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**In Focus 1: Chant: Structure, Performance, and Development**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Early Music and to Chant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Antiquity to Chant
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 out: chant notation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Purpose and Types of Chant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Diversity and Development in Chant
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Other Topics 1: From Chant to the Fourteenth-Century**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Secular Monophony in the Middle Ages
+{{< tdclose >}}
+{{< tdopen >}}
+Listening quiz in class: 10 minutes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Birth of Polyphony
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Polyphony (and some monophony) in the 13th and early 14th century
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First paper due
+
+Assignment 2 out: Analysis of Perotin style organum
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Fauvel_, Vitry, Machaut and Music in France before 1370
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**In Focus 2: Music in the Trecento (Italy 1340–1420)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Trecento Music
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 2 due
+
+Assignment 3 out: Learning medieval notation from medieval manuscripts
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Trecento Music and Musicology: Introduction to Research; Sacred Music
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Simplicity and Complexity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The End of the Trecento and The Rise of European Music
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+First Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Other Topics 2: The "Renaissance" (1420–1600)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music in the Mid-Fifteenth Century 1440–1480
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Vocal Music: Josquin, his Contemporaries, and his Followers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: How to revise a research paper
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+16th century vocal and instrumental music
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Special Event: Jane Alden, "Why Facsimiles?"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**In Focus 3: Elizabethan London  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Tutor England / The Elizabethan Madrigal
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+English Music in Church and School
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due: a few questions about Morley's _Plaine and Easie Introduction_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumental Music and Lute Song (Doug Freundlich, Guest Lecturer)
+{{< tdclose >}}
+{{< tdopen >}}
+Revised second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Music in London Society
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due: One-page madrigal review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Second Hour Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Other Topics 3: New Developments on the Continent, 1570–1620**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Madrigal and Drama in Late Sixteenth-Century Italy; Music in Venice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Rise of Opera and a New Style
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -26,8 +26,73 @@ Instructions for revising essays ([PDF]({{< baseurl >}}/resources/mit21m_220f10_
 
 Sample papers are presented courtesy of the students, used with permission.
 
-| PAPER # | TOPICS | SAMPLE STUDENT WORK |
-| --- | --- | --- |
-| 1 | Medieval music performance |  {{< br >}}{{< br >}} "Comparisons of Performance Practice for a Troubadour Song and a Sequence," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p1a)) {{< br >}}{{< br >}} "Differences in Performances: _Kalenda Maia_ and the "Kyrie" from the _Christmas Mass_," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p1b)) {{< br >}}{{< br >}}  |
-| 2 | A research and analysis paper which will be revised, improved, and resubmitted |  {{< br >}}{{< br >}} "Demonstrating Significance of Rhythm in Gregorian Chant: An analysis of Solesmes Transcriptions of the Christmas Masses," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2c)) {{< br >}}{{< br >}} "Parallel and Contrary Motion in the Madrigals of Giovanni da Cascia," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2a)) {{< br >}}{{< br >}} "Perspectives on Music during the Counter-Reformation: Sacerdotale vs. Morley's Practical Musicke" by Julie Henion ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2jh)) {{< br >}}{{< br >}} "Trecento Cacce and the Entrance of the Second Voice," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2b)) {{< br >}}{{< br >}}  |
-| 3 | A set of program notes | No samples available
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAPER #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE STUDENT WORK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Medieval music performance
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Comparisons of Performance Practice for a Troubadour Song and a Sequence," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p1a))
+
+"Differences in Performances: _Kalenda Maia_ and the "Kyrie" from the _Christmas Mass_," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p1b))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+A research and analysis paper which will be revised, improved, and resubmitted
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Demonstrating Significance of Rhythm in Gregorian Chant: An analysis of Solesmes Transcriptions of the Christmas Masses," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2c))
+
+"Parallel and Contrary Motion in the Madrigals of Giovanni da Cascia," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2a))
+
+"Perspectives on Music during the Counter-Reformation: Sacerdotale vs. Morley's Practical Musicke" by Julie Henion ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2jh))
+
+"Trecento Cacce and the Entrance of the Second Voice," by MIT student ([PDF]({{< baseurl >}}/resources/mit21m_220f10_assn_p2b))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+A set of program notes
+{{< tdclose >}}
+{{< tdopen >}}
+No samples available
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
