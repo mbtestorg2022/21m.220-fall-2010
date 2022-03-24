@@ -605,7 +605,7 @@ Morley, Thomas. "April is in my Mistress' Face." Paul Hillier & Hilliard Ensembl
 {{< tdopen >}}
 
 
-Byrd, William. "Though Amaryllis Dance in Green." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit21m_220f10_list_byrd))
+Byrd, William. "Though Amaryllis Dance in Green." ([PDF - 1.1MB]({{< baseurl >}}/resources/mit21m_220f10_list_byrd))
 
 Byrd, William. [_O Lord, Make thy Servant, Elizabeth_](http://www2.cpdl.org/wiki/index.php/O_Lord,_make_thy_servant_Elizabeth_(William_Byrd)).
 

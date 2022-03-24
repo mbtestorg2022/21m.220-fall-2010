@@ -234,7 +234,7 @@ Paintings by Andrea da Firenze, Giotto di Bondone, and Jacopo del Casentino ([ZI
 The End of the Trecento and The Rise of European Music
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec12))
+([PDF - 2.6MB]({{< baseurl >}}/resources/mit21m_220f10_lec12))
 {{< tdclose >}}
 {{< tdopen >}}
  
