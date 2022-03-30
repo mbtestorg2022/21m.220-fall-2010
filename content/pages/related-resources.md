@@ -7,7 +7,7 @@ uid: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
 TimeMap
 -------
 
-[![Screenshot image of TimeMap, showing a scrolling timeline on the left side and a map of western Europe on the right, along with pop-up video player window.](/courses/music-and-theater-arts/21m-220-early-music-fall-2010/related-resources/timemap.jpg)](http://code.google.com/p/timemap/
+[{{< resource "1a9cf99b-dc22-2df7-3299-1e17bed81494" >}}](http://code.google.com/p/timemap/
 )
 
 [TimeMap](http://code.google.com/p/timemap/

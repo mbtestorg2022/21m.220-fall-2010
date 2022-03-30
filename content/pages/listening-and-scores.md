@@ -60,7 +60,7 @@ Introduction to Early Music and to Chant
  
 {{< tdclose >}}
 {{< tdopen >}}
-Feria Secunda Ad Sextam (Office of Sext) ([PDF](/courses/music-and-theater-arts/21m-220-early-music-fall-2010/Syllabus/MIT21M_220F10_chants_sext.pdf))
+Feria Secunda Ad Sextam (Office of Sext) ({{% resource_link "b6548c2b-2708-ba29-0ba2-11cd37dfaa23" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
